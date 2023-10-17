@@ -1,0 +1,2 @@
+Prefix plugins/ABRGeneLength/example/
+Plugin ABRGeneLength inputfile parameters.txt outputfile .

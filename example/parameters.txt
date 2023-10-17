@@ -1,0 +1,5 @@
+ABR_FASTA_file	nucleotide_fasta_protein_homolog_model.fasta
+selected_ABR_file	ptr_amr.csv
+causal_input	PTR_species_filtered_metadata_major_AMR.csv
+converted_out	PTR_species_filtered_metadata_major_AMR_RPKM.csv
+abr_file	ptr_amr.csv
