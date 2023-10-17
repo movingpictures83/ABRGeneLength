@@ -4,7 +4,7 @@
 # Output: DIR
 # Tested with: PluMA 2.0, Python 3.6
 
-Taxa filter for Peak-To-Trough Ratio (PTR)
+Lengths of antibacterial resistant genes
 
 Input is a tab-delimited TXT of keyword-value pairs:
 ABR_FASTA_file (FASTA)
